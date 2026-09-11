@@ -35,3 +35,7 @@ python ice_regression.py ice_data.csv 0.4 500   # <data> <learning_rate> <iterat
 The script prints the normalized design matrix, the closed-form weights, the gradient-descent weights (every 10 iterations), the 2023 prediction, and the zero-ice year. It also saves both plots.
 
 Data: annual Lake Mendota ice-cover durations, as published by the Wisconsin State Climatology Office.
+
+---
+
+*Date finished: March 3, 2025*
